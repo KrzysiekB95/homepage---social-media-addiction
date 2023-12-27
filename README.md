@@ -1,48 +1,49 @@
-# Praca domowa - Moduł 3
+# Homework - Module 3
 
-To jest projekt HTML, CSS i JS dotyczący uzależnienia od mediów społecznościowych. Projekt zawiera informacje, statystyki, objawy, skutki i leczenie uzależnienia od portali społecznościowych.
+This is an HTML, CSS, and JS project addressing social media addiction. The project contains information, statistics, symptoms, effects, and treatment of addiction to social media platforms.
 
-## Struktura projektu
+## Project Structure
 
-- **index.html**: Główny plik HTML zawierający strukturę strony.
-- **CSS/style.css**: Plik CSS odpowiadający za stylizację strony.
-- **js/script.js**: Plik JavaScript zawierający kod do interakcji przycisku "Pokaż/Ukryj Linki".
-- **README.md**: Plik, który właśnie czytasz - zawiera opis projektu.
+- **index.html**: Main HTML file containing the page structure.
+- **CSS/style.css**: CSS file responsible for styling the page.
+- **js/script.js**: JavaScript file containing code for the "Show/Hide Links" button interaction.
+- **README.md**: The file you are currently reading - it contains a description of the project.
 
-## Technologie użyte
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## Struktura HTML
+## HTML Structure
 
-- Nagłówek z nawigacją
-- Główna treść zawierająca artykuł
-- Przycisk do pokazywania/ukrywania linków
-- Aside z linkami do użytych źródeł
-- Stopka z informacją o prawach autorskich
+- Header with navigation
+- Main content containing an article
+- Button to show/hide links
+- Aside with links to used sources
+- Footer with copyright information
 
-## Style CSS
+## CSS Styles
 
-- Stylizacja dla elementów strony, takich jak nagłówek, obrazy, tabela, listy, przycisk, stopka, itp.
-- Użycie gradientów, kolorów i efektów dla atrakcyjnego wyglądu.
+- Styling for page elements such as header, images, table, lists, button, footer, etc.
+- Use of gradients, colors, and effects for an attractive appearance.
 
 ## JavaScript
 
-- Interakcja z przyciskiem do pokazywania/ukrywania linków w aside.
+- Interaction with the button to show/hide links in the aside.
 
-## Zewnętrzne źródła
+## External Sources
 
 1. [euphire.pl](https://euphire.pl/artykul/uzaleznienie-od-mediow-spolecznosciowych-przyczyny-objawy-leczenie/)
 2. [medjol.pl](https://medjol.pl/warto-wiedziec/uzaleznienie-od-mediow-spolecznosciowych-objawy-skutki-i-leczenie#uzaleznienie_od_portali_spolecznosciowych_-_statystyki)
 3. [insiderintelligence.com](https://www.insiderintelligence.com/charts/social-media-users-worldwide-per-network/)
 
-## Uruchamianie projektu
+## Running the Project
 
-1. Sklonuj repozytorium.
-2. Uruchom plik `index.html` w przeglądarce.
+1. Clone the repository.
+2. Open the `index.html` file in a web browser.
 
-## Autor
+## Author
 
-Autor: Krzysztof Borucki
+Author: Krzysztof Borucki
+
