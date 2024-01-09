@@ -46,4 +46,4 @@ This is an HTML, CSS, and JS project addressing social media addiction. The proj
 ## Author
 
 Author: Krzysztof Borucki
-
+Link to my webside: https://krzysiekb95.github.io/homepage---social-media-addiction/
