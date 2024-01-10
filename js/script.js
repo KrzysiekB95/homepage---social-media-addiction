@@ -1,11 +1,15 @@
-let button = document.querySelectorAll(".button");
-
-let text = document.querySelectorAll(".text");
-
-button.addEventListener("click", () => {
+const showHide = () => {
+    const text = document.querySelector(".text");
     if (text.style.display === "none") {
         text.style.display = "block";
     } else {
         text.style.display = "none";
     }
+}
+
+
+const button = document.querySelector(".button");
+
+button.addEventListener("click", () => {
+    showHide();
 });
